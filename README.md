@@ -31,6 +31,29 @@ npm install
 # Run the application
 ng serve
 
+**Description of how the application work**
+
+open in browser http://localhost:4200/ade
+
+ 1)once application opens Drop down that contains the “Region” with options Europe and Asia  will display
+
+2)On selecting any region a second drop down should  will shown  populated with “Countries” based on the API
+
+response from above URLs
+
+3)On selecting the any “Country”
+
+4)it display a simple table that contains the
+
+a. Name
+
+b. Capital
+
+c. Population
+
+d. Currencies
+
+e. Flag
 ```
 
 ### Build
