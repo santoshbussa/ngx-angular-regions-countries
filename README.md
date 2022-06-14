@@ -39,6 +39,8 @@ ng serve
 
 open in browser http://localhost:4200/ade
 
+
+
  1)once application opens Drop down that contains the “Region” with options Europe and Asia  will display
 
 2)On selecting any region a second drop down should  will shown  populated with “Countries” based on the API
