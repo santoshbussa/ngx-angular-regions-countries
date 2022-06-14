@@ -21,11 +21,10 @@ The project has been updated to Angular version 12.0.1
 ```Markdown
 
 # Clone the repository
-git clone https://github.com/santoshbussa/angular-ngrx-regions-countriesdrp
+git clone https://github.com/santoshbussa/testUIcode
 
 # Navigate to the app's root directory
-cd angular-ngrx-regions-countriesdrp
-
+cd testUIcode
 # Install the dependencies
 npm install
 
