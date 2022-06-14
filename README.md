@@ -21,10 +21,10 @@ The project has been updated to Angular version 12.0.1
 ```Markdown
 
 # Clone the repository
-git clone https://github.com/santoshbussa/testUIcode
+git clone https://github.com/santoshbussa/ngx-angular-regions-countries
 
 # Navigate to the app's root directory
-cd testUIcode
+cd ngx-angular-regions-countries
 # Install the dependencies
 npm install
 
