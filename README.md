@@ -28,6 +28,10 @@ cd testUIcode
 # Install the dependencies
 npm install
 
+### Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
 # Run the application
 ng serve
 
@@ -56,9 +60,6 @@ d. Currencies
 e. Flag
 ```
 
-### Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
 ### Running unit tests
 
